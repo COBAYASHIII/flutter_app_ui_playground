@@ -14,7 +14,7 @@ class SignInPage extends StatelessWidget {
           elevation: 0,
           leading: IconButton(icon: Icon(Icons.menu), onPressed: () {}),
           title: const Text(
-            'Welcome to Muscle Logic!',
+            'Sign In',
           ),
           centerTitle: true,
           actions: [
